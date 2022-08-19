@@ -1,0 +1,121 @@
+* {
+    margin-left: 40px;
+    margin-top: 10px;
+    padding: 0%;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    margin-left: 90px;
+    /* float:left; */
+    display: inline-block;
+    
+}
+
+ img{
+    float: left;  
+    margin-left: 1%;
+
+
+    
+}
+
+
+
+h6{
+    color: gray;
+    margin-left: 90px;
+    float:left;
+    padding-top: 0%;
+    
+} 
+
+#div{
+    float: left;
+    display:flow-root;
+
+}
+#chpizza{
+    margin-right: 30%;
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Pacifico', cursive;
+    margin-right: 70%;
+   
+    
+    
+}
+#post{
+    color:gray;
+    margin-left: 10%;
+    margin-top: 7%;
+    margin-top: 0%;
+}
+
+#img1{
+    margin-left: 70%;
+}
+
+#chocoimg{
+    margin-left:10%;
+    display: block;
+}
+ 
+p{
+    color: gray;
+    margin-left: 10%;
+    margin-top: 60%;
+    text-align: left;
+    /* padding-top: 0%; */
+    font-size:larger;
+}
+
+/* #list{
+    margin-left: 10%;
+} */
+
+#list{
+    margin-top: 10%;
+    color:darkgoldenrod;
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Fredoka One', cursive;
+font-family: 'Pacifico', cursive;
+
+}
+
+#main{
+    display: flex;
+    background-image:url(./Assets/list-bg.png);
+    background-repeat:no-repeat;
+    margin-left: 10%;
+}
+
+hr{
+    width:90%;
+    height:10px;
+    color:gray;
+    background-color:gray;
+}
+
+#personal{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    image-rendering: crisp-edges;
+}
+#parentfooter{
+    display: flex;
+}
+#lastimg{
+    margin-left:45%;
+    width: 3%;
+}
+#lastpar{
+    padding-top: 2%;
+    /* display: flow-root; */
+    color: gray;
+    margin-left: 35%;
+}
+#lastmain{
+    display: flow-root;
+}
